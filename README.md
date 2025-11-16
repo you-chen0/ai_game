@@ -1,5 +1,9 @@
 # 交互式图片故事生成系统
 
+## 演示视频
+
+https://www.bilibili.com/video/BV1qfC9B9EXU
+
 ## 项目概述
 
 一个基于nano banana + LangGraph的交互式故事生成demo。用户提供一张图片，系统会生成一个互动的故事，每一步用户提供选择来影响故事走向，并通过nano banana生成场景图片。
